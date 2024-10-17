@@ -14,3 +14,5 @@ My Skills
 -Programming Languages: Javascript, c++, HTML, CSS
 -Tools: Git, VS Code, SQL
 
+link to my portfolio 
+https://desreedimaky.github.io/MyPortfolio/
